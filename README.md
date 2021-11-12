@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ksygd
 - 👀 I’m interested in Gaming and Coding
-- 🌱 I’m currently learning Pyth
+- 🌱 I’m currently learning Python
 
 <!---
 ksygd/ksygd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
